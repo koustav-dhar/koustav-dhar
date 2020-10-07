@@ -19,7 +19,7 @@ I love to learn new algorithms, participate in programming contests and explore 
 
 - 🔭 I’m currently working on improving my Development skills.
 - 👯 I’m looking to collaborate on anything innovative and fascinating.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with I don't know really, varies from time to time.
 - 💬 Ask me about Competitive Programming and then it's hard to stop me from talking about it.
 - 📫 How to reach me: koustav.dhar.1922@csju.in
 - ⚡ Fun fact: I waste a hell lot of time.
