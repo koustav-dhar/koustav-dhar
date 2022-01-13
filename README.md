@@ -5,8 +5,8 @@
 
 <h1><b>I'm Koustav Dhar</b> 
 <br></h1>
-Currently a Sophomore at Dept. of Computer Science and Engineering, Jadavpur University, Kolkata. I'm a Competitive Programmer, Deep Learning Enthusiast and slowly diving into the world of Development and Open Source.<br>
-I love to learn new algorithms, participate in programming contests and explore stuffs which I find fascinating.<br>
+Currently a pre-final year student at Dept. of Computer Science and Engineering, Jadavpur University, Kolkata. I'm a Competitive Programmer, AI Enthusiast and interested in Open Source.<br>
+I love to learn new algorithms.<br>
 <hr>
 <b>My Programming Profiles:</b>
 
@@ -15,12 +15,5 @@ I love to learn new algorithms, participate in programming contests and explore 
 - <img src = "https://img.atcoder.jp/assets/atcoder.png" title = "AtCoder" align = "bottom" width = 20 height = 20/> - <a href = "https://atcoder.jp/users/kdjonty31">AtCoder</a>
 
 <hr>
-<b>Here are some more stuffs about me:</b>
 
-- 🔭 I’m currently working on improving my Development skills.
-- 👯 I’m looking to collaborate on anything innovative and fascinating.
-- 🤔 I’m looking for help with I don't know really, varies from time to time.
-- 💬 Ask me about Competitive Programming and then it's hard to stop me from talking about it.
-- 📫 How to reach me: koustav.dhar.1922@csju.in
-- ⚡ Fun fact: I waste a hell lot of time.
 
